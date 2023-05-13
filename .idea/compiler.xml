@@ -19,7 +19,7 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="houses" options="-parameters" />
-      <module name="tenant" options="-parameters" />
+      <module name="tenant" options="" />
     </option>
   </component>
 </project>
